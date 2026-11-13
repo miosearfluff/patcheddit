@@ -1,3 +1,10 @@
+## [2.1.2-dev.1](https://github.com/miosearfluff/patcheddit/compare/v2.1.1...v2.1.2-dev.1) (2026-11-13)
+
+
+### Bug Fixes
+
+* Emulate removed Redgifs /info endpoint and fix Sync gif ids ([69dc24d](https://github.com/miosearfluff/patcheddit/commit/69dc24d3f8e4585725dd361a5e8358a01db9d591)), closes [#100](https://github.com/miosearfluff/patcheddit/issues/100)
+
 ## [2.1.1](https://github.com/wchill/patcheddit/compare/v2.1.0...v2.1.1) (2026-11-13)
 
 
